@@ -1,0 +1,9 @@
+{
+    "gpt": "http://127.0.0.1:11434/api/chat",
+    "tts": "http://127.0.0.1:9880",
+    "l2d": "ws://0.0.0.0:8001",
+    "waifu-name": "桃瀬ひより",
+    "waifu-pic": "res/hiyori.80px.png",
+    "text-voice-sync": true,
+    "show-both-zh-jp": false
+}
